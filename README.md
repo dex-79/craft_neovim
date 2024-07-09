@@ -6,7 +6,7 @@ Craft-NeoVim is a setup script designed to automate the installation and configu
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/dex-79/craft_neovim/preview/preview01.png)
 
 
 ## Features

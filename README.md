@@ -3,10 +3,13 @@
 
 Craft-NeoVim is a setup script designed to automate the installation and configuration of the NeoVim text editor on both macOS and Debian-based Linux systems (Ubantu,Kali, Parrot OS, etc). This script ensures a smooth and consistent setup process for developers who want to quickly get started with a powerful and customizable text editor environment. like this-
 
+## Logo
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 ## Screenshots
 
-![App Screenshot](https://github.com/dex-79/craft_neovim/blob/main/Preview/preview01.png)
+![App Screenshot](https://github.com/dex-79/craft_neovim/blob/main/logo/logo.png)
 
 
 ## Features

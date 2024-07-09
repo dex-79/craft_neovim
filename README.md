@@ -34,11 +34,11 @@ Clone the Repository:
 Ensure you have Git installed, then clone the repository containing this script and the NeoVim configuration files.
 
 ```bash
-  git clone***
+  git clone https://github.com/dex-79/craft_neovim.git
 ```
 Open Folder
 ```bash
-  cd craft_NeoVim
+  cd craft_neonim
 ``` 
 Provide executable permissions,
 ```bash

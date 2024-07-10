@@ -29,6 +29,9 @@ Provides basic error handling to ensure that users are informed if there are iss
 
 ## Installation
 
+## Note:-
+It is highly recommend to use iterm2 terminal in any MacOs for better apperance and better output.
+
 Clone the Repository:
 
 Ensure you have Git installed, then clone the repository containing this script and the NeoVim configuration files.
